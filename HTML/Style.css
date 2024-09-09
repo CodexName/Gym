@@ -1,0 +1,87 @@
+header {
+    background-color: #ff007f;
+    height: 60px;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.mainLink {
+    margin-left: 12px;
+    font-size: 38px;
+    color: white;
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+.buttonBenefits {
+    background-color: #ff007f;
+    width: 190px;
+    height: 50px;
+    border: none;
+    border-radius: 70px;
+    margin-right: 80%;
+}
+.buttonBenefits:hover{
+    background-color: #b71465;
+}
+.buttonBenefits:active{
+    border: solid white;
+}
+.buttonBenefits a{
+    color: aliceblue;
+}
+
+.mainImage {
+    width: 100%;
+    height: 700px;
+}
+
+.main-content {
+    position: relative;
+    z-index: 1;
+    color: aliceblue;
+   margin-top: -30%;
+   margin-left: 25%;
+   font-family: 'Poppins';
+   font-size: 30px;
+}
+
+.list-nav li {
+    display: inline;
+    margin-left: 70px;
+    font-family: 'Poppins';
+}
+
+.list-nav a {
+    color: white;
+}
+.list-nav a:hover{
+   color: rgb(209, 207, 207);
+}
+
+.list-nav {
+    margin-top: -50px;
+    margin-left: 250px;
+}
+
+.list-nav :nth-of-type(6) {
+    margin-right: 250px;
+}
+
+.login-button {
+    width: 120px;
+    height: 40px;
+    border-radius: 60px;
+    border: none;
+    background-color: white;
+}
+.login-button a{
+    color: #ff007f;
+    font-family: 'Poppins';
+}

@@ -1,0 +1,42 @@
+.nike-img1{
+    width: 16%;
+    height: 350px;
+}
+.nike-img2
+{
+    width: 16%;
+    height: 350px;
+    z-index: 1;
+    margin-left: -6%;
+    margin-bottom: 16%;
+}
+.new-experience{
+    margin-top: 25%;
+    margin-left: 8%;
+}
+.new-body{
+  margin-left: 40%;
+  margin-top: -30%;
+}
+.new-body h1{
+    font-family:'Poppins';
+    color:  #ff007f;
+    font-size: 40px;
+}
+.new-body pre{
+    font-family:'Poppins';
+}
+.view-faq{
+    background-color: white;
+    border-color: #ff007f;
+    border-width: 3px;
+    width: 190px;
+    height: 55px;
+    border-radius: 60px;
+    margin-left: 13%;
+}
+.view-faq a{
+    font-family: 'Poppins';
+    color: #ff007f;
+    font-size: 15px;
+}
